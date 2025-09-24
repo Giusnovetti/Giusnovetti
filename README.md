@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Giusnovetti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java, C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me e-mail: gius.novetti@gmail.com
+I’m a Software Engineer with 3+ years of experience in Italy, passionate about building scalable and impactful software solutions.
 
-<!---
-Giusnovetti/Giusnovetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Proficient in Java and TypeScript
+
+🌱 Currently working on personal projects:
+
+🎥 A WebRTC video call template
+
+⚽ A web app for soccer videogame tournaments
+
+🚀 Always exploring new technologies and best practices to grow as a developer
+
+Let’s connect and build something great together!
