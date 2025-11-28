@@ -4,9 +4,7 @@ I’m a Software Engineer with 3+ years of experience in Italy, passionate about
 
 🌱 Currently working on personal projects:
 
-🎥 A WebRTC video call template
-
-⚽ A web app for soccer videogame tournaments
+I'm building my own services on my vps using Docker containers. I'm using a classic reverse proxy + swarm of containers architecture.
 
 🚀 Always exploring new technologies and best practices to grow as a developer
 
